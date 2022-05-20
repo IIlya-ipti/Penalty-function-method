@@ -1,0 +1,9 @@
+﻿  GradMethods.cpp
+C:\Users\Ilya\source\repos\Penalty-function-method\Penalty-function-method\GradMethods.cpp(6,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Matrix.cpp
+C:\Users\Ilya\source\repos\Penalty-function-method\Penalty-function-method\Matrix.cpp(81,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ilya\source\repos\Penalty-function-method\Penalty-function-method\Matrix.cpp(91,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Penalty-function-method.cpp
+  PenaltyMethod.cpp
+  Создание кода...
+  Penalty-function-method.vcxproj -> C:\Users\Ilya\source\repos\Penalty-function-method\Debug\Penalty-function-method.exe
