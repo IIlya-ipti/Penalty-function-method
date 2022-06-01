@@ -75,7 +75,7 @@ int main() {
     f2* f = new f2;
     std::vector<double> x = Penaltymethod(f);
     std::cout << f->f(x) << std::endl;
-
+    delete f;
 
     return 0;
 }
